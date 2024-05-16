@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/MySQL-FFFFFF?logo=Mysql)
 ![](https://img.shields.io/badge/Redis-FFFFFF?logo=Redis)
 ![](https://img.shields.io/badge/Docker-0080FF?logo=Docker)
-![](https://img.shields.io/badge/Linux-FFFFFF?logo=Lunux)
+![](https://img.shields.io/badge/Linux-FFFFFF?logo=Linux)
 ![](https://img.shields.io/badge/GCP-FFFFFF?logo=gcp)
 ![](https://img.shields.io/badge/AWS-FFFFFF?logo=aws)
 
