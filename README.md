@@ -13,5 +13,5 @@
 
 <h3 align="left">Languages:</h3>
 
-![](https://img.shields.io/badge/Java-FFFFFF)
-![](https://img.shields.io/badge/Python-2894FF)
+![](https://img.shields.io/badge/Java-FFFFFF?logo=java)
+![](https://img.shields.io/badge/Python-2894FF?logo=python)
