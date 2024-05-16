@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages:</h3>
 
-![](https://img.shields.io/badge/Java-FFFFFF?logo=java)
+![](https://img.shields.io/badge/Java-000000?logo=openjdk)
 ![](https://img.shields.io/badge/Python-FFFFFF?logo=python)
 
 <h3 align="left">Framework:</h3>
