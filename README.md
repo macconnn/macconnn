@@ -3,11 +3,11 @@
 
 
 <h3 align="center">Backend Engineer | Taipei,Taiwan</h3>
-<h3 align="center">
+
   ![](https://img.shields.io/badge/Langeage-Java-red)
   ![](https://img.shields.io/badge/Langeage-Python-blue)
   ![](https://img.shields.io/badge/Toole-MySQL-white)
-</h3>
+  
 <p align="left">
 </p>
 
