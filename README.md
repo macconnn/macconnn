@@ -1,8 +1,7 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi!+ther+I'm+Macconnn;Second+line+of+text" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi!+there+I'm+Macconnn;Welcome+to+my+page" /></h1>
 
-<h3 style="margin-bottom:50px;background-image: linear-gradient(to right, #2C3333, #395B64, #A5C9CA);color: transparent;-webkit-background-clip: text;" align="center">
-<i>Backend Engineer | Taipei,Taiwan</i>
-</h3>
+<h3 align="center">Backend Engineer | Taipei,Taiwan</h3>
+
 
 - 🔭 I’m currently working on [Triple-I](https://3i-life.com.tw/)
 
