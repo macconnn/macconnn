@@ -9,6 +9,8 @@
   I'm a Java backend engineer work in Taipei, also I use python to do some interesting stuff such as web crawler
 </h4>
 
+<h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=macconnn&show_icons=true&locale=en" alt="macconnn" /></h3>
+
 <h3 align="left">Languages:</h3>
 
 ![](https://img.shields.io/badge/Java-FFFFFF?logo=java)
@@ -24,8 +26,11 @@
 ![](https://img.shields.io/badge/MySQL-FFFFFF?logo=Mysql)
 ![](https://img.shields.io/badge/Redis-FFFFFF?logo=Redis)
 ![](https://img.shields.io/badge/Docker-0080FF?logo=Docker)
-![](https://img.shields.io/badge/Linux-FFFFFF?logo=Linux)
 ![](https://img.shields.io/badge/GCP-FFFFFF?logo=gcp)
 ![](https://img.shields.io/badge/AWS-FFFFFF?logo=aws)
 
-<h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=macconnn&show_icons=true&locale=en" alt="macconnn" /></h3>
+<h3 align="left">Environment:</h3>
+![](https://img.shields.io/badge/Mac-FFFFFF?logo=Mac)
+![](https://img.shields.io/badge/Ubuntu-FFFFFF?logo=Ubuntu)
+
+
