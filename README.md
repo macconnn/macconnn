@@ -31,7 +31,7 @@
 
 <h3 align="left">Environment:</h3>
 
-![](https://img.shields.io/badge/Mac-FFFFFF?logo=Apple)
+![](https://img.shields.io/badge/Mac-000000?logo=Apple)
 ![](https://img.shields.io/badge/Ubuntu-FFFFFF?logo=Ubuntu)
 
 
