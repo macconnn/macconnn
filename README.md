@@ -14,4 +14,18 @@
 <h3 align="left">Languages:</h3>
 
 ![](https://img.shields.io/badge/Java-FFFFFF?logo=java)
-![](https://img.shields.io/badge/Python-2894FF?logo=python)
+![](https://img.shields.io/badge/Python-FFFFAA?logo=python)
+
+<h3 align="left">Framework:</h3>
+
+![](https://img.shields.io/badge/spring-9AFF02?logo=Spring)
+
+
+<h3 align="left">Tools:</h3>
+
+![](https://img.shields.io/badge/MySQL-FFFFFF?logo=Mysql)
+![](https://img.shields.io/badge/Redis-FFFFFF?logo=Redis)
+![](https://img.shields.io/badge/Docker-0080FF?logo=Docker)
+![](https://img.shields.io/badge/GCP-FFFFFF?logo=gcp)
+![](https://img.shields.io/badge/AWS-FFFFFF?logo=aws)
+
