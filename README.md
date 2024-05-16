@@ -2,7 +2,7 @@
 
 <h3 align="center">Backend Engineer | Taipei,Taiwan</h3>
 <h3 align="center">
-  https://img.shields.io/badge/java-spring-green
+  ![Static Badge](https://img.shields.io/badge/java-spring-green)
 </h3>
 <p align="left">
 </p>
