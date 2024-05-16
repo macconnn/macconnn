@@ -13,7 +13,7 @@
 
 <h3 align="left">💻Languages:</h3>
 
-![](https://img.shields.io/badge/Java-000000?logo=openjdk)
+![](https://img.shields.io/badge/Java-FFFFFF?logo=openjdk)
 ![](https://img.shields.io/badge/Python-FFFFFF?logo=python)
 
 <h3 align="left">✅Framework:</h3>
@@ -23,11 +23,11 @@
 
 <h3 align="left">🔨Tools:</h3>
 
-![](https://img.shields.io/badge/Git-000000?logo=Git)
+![](https://img.shields.io/badge/Git-FFFFFF?logo=Git)
 ![](https://img.shields.io/badge/MySQL-FFFFFF?logo=Mysql)
 ![](https://img.shields.io/badge/Redis-FFFFFF?logo=Redis)
 ![](https://img.shields.io/badge/Docker-0080FF?logo=Docker)
-![](https://img.shields.io/badge/Shell-000000?logo=Shell)
+![](https://img.shields.io/badge/Shell-FFFFFF?logo=Shell)
 ![](https://img.shields.io/badge/Postman-FFFFFF?logo=Postman)
 
 <h3 align="left">🌏Environment:</h3>
