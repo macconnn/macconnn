@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi!+there+I'm+Macconnn;Welcome+to+my+page" /></h1>
+<h1><img src="https://readme-typing-svg.demolab.com/?lines=Hi!+there+I'm+Macconnn;Welcome+to+my+page" /></h1>
 
 <h3 align="center">Backend Engineer | Taipei,Taiwan</h3>
 
