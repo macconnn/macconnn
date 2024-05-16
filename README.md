@@ -2,7 +2,8 @@
 
 <h3 align="center">Backend Engineer | Taipei,Taiwan</h3>
 <h3 align="center">
-  ![Static Badge](https://img.shields.io/badge/java-spring-green)
+  [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+  [![](https://img.shields.io/badge/java-spring-green)]
 </h3>
 <p align="left">
 </p>
