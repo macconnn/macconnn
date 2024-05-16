@@ -6,7 +6,7 @@
 
 <h3 align="center">Backend Engineer | Taipei</h3>
 <h4 align="center">
-  I'm a Java backend engineer work in Taipei, also I use python to do some interesting stuff such as web crawler
+  I'm a Java backend engineer based in Taipei. I also use Python for interesting projects
 </h4>
 
 <h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=macconnn&show_icons=true&locale=en" alt="macconnn" /></h3>
