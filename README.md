@@ -29,9 +29,6 @@
 ![](https://img.shields.io/badge/Docker-0080FF?logo=Docker)
 ![](https://img.shields.io/badge/Shell-000000?logo=Shell)
 ![](https://img.shields.io/badge/Postman-FFFFFF?logo=Postman)
-![](https://img.shields.io/badge/GCP-FFFFFF?logo=gcp)
-![](https://img.shields.io/badge/AWS-FFFFFF?logo=aws)
-![](https://img.shields.io/badge/Intellij-FFFFFF?logo=Intellij)
 
 <h3 align="left">Environment:</h3>
 
