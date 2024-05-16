@@ -12,6 +12,7 @@
 </p>
 
 <h3 align="left">Languages:</h3>
+
 ![Static Badge](https://img.shields.io/badge/Java-FFFFFF)
 ![](https://img.shields.io/badge/Java-FFFFFF)
 ![](https://img.shields.io/badge/Langeage-Python-blue)
