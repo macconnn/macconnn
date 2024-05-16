@@ -7,14 +7,6 @@
   I'm a Java backend engineer work in Taipei, also I use python to do some interesting stuff such as web crawler
 </h4>
 
-
-
-<h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=macconnn&show_icons=true&locale=en" alt="macconnn" /></h3>
-
-
-<p align="left">
-</p>
-
 <h3 align="left">Languages:</h3>
 
 ![](https://img.shields.io/badge/Java-FFFFFF?logo=java)
@@ -34,4 +26,4 @@
 ![](https://img.shields.io/badge/GCP-FFFFFF?logo=gcp)
 ![](https://img.shields.io/badge/AWS-FFFFFF?logo=aws)
 
-
+<h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=macconnn&show_icons=true&locale=en" alt="macconnn" /></h3>
