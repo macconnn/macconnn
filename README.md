@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+there+I'm+Macconnn;Welcome+to+my+page" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+there+I'm+Macconnn+Welcome+to+my+page;領域展開+『+無量空処+』" />
   </h1>
 </div>
 
