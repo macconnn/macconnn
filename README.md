@@ -18,14 +18,14 @@
 
 <h3 align="left">Framework:</h3>
 
-![](https://img.shields.io/badge/spring-9AFF02?logo=Spring)
+![](https://img.shields.io/badge/spring-006000?logo=Spring)
 
 
 <h3 align="left">Tools:</h3>
 
-![](https://img.shields.io/badge/MySQL-FFFFFF?logo=Mysql)
+![](https://img.shields.io/badge/MySQL-F9F900?logo=Mysql)
 ![](https://img.shields.io/badge/Redis-FFFFFF?logo=Redis)
 ![](https://img.shields.io/badge/Docker-0080FF?logo=Docker)
 ![](https://img.shields.io/badge/GCP-FFFFFF?logo=gcp)
-![](https://img.shields.io/badge/AWS-FFFFFF?logo=aws)
+![](https://img.shields.io/badge/AWS-000000?logo=aws)
 
